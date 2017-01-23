@@ -7,9 +7,9 @@
 #schema name in the following two lines.
 
 
-CREATE SCHEMA IF NOT EXISTS homework3;
+CREATE SCHEMA IF NOT EXISTS homework3nn;
 
-use homework3;
+use homework3nn;
 
 
 
